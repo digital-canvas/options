@@ -1,0 +1,38 @@
+build_settings:
+    clone_depth: 1 # depth of 1 is a shallow clone, remove this line to clone entire repo
+    ignore:
+        - "vendor"
+        - "tests"
+
+setup:
+    composer:
+        action: "install"
+        prefer_dist: true
+
+test:
+    lint:
+       directory: "src"
+       recursive: true
+    php_unit:
+        config:
+            - "phpunit.travis.xml"
+        directory:
+            - "tests/"
+        run_from: "vendor/bin/"
+        coverage: "tests/logs/coverage"
+    php_mess_detector:
+        path: 'src'
+        allow_failures: true
+    php_code_sniffer:
+        path: "src"
+        standard: "PSR2"
+    php_cpd:
+        standard: "PSR2"
+        path: "src"
+        allow_failures: true
+    php_loc:
+        directory: "src"
+    pdepend:
+        directory: "src"
+
+complete:
