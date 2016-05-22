@@ -101,7 +101,7 @@ class StateOptionsTest extends PHPUnit_Framework_TestCase
     public function testTryingToLoadInvalidState()
     {
         $state = States::getState('QQ', 'US', true);
-        $this->assertFalse($state);
+        $this->assertNull($state);
     }
 
     /**

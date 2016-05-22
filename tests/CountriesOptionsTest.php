@@ -72,7 +72,7 @@ class CountriesOptionsTest extends PHPUnit_Framework_TestCase
     public function testTryingToLoadInvalidCountry()
     {
         $country = Countries::getCountry('17', true);
-        $this->assertFalse($country);
+        $this->assertNull($country);
     }
 
     /**
