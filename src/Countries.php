@@ -114,7 +114,7 @@ class Countries
      * @param string $country
      * @param bool $name_only
      *
-     * @return string|array|bool
+     * @return string|array|null
      */
     public static function getCountry($country, $name_only = true)
     {
@@ -125,7 +125,7 @@ class Countries
         if (array_key_exists($country, self::$countries)) {
             return ($name_only) ? self::$countries[$country]['name'] : self::$countries[$country];
         } else {
-            return false;
+            return null;
         }
     }
 }

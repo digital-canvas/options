@@ -165,7 +165,7 @@ class States
      * @param string $country
      * @param bool   $name_only
      *
-     * @return string|array
+     * @return string|array|null
      */
     public static function getState($abbreviation, $country = null, $name_only = true)
     {
@@ -178,6 +178,6 @@ class States
                 return ($name_only) ? $state['name'] : $state;
             }
         }
-        return false;
+        return null;
     }
 }
