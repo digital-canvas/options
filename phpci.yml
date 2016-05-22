@@ -11,8 +11,8 @@ setup:
 
 test:
     lint:
-       directory: "src"
-       recursive: false
+       directory: "src/"
+       recursive: true
     php_unit:
         config:
             - "phpunit.travis.xml"
