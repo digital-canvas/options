@@ -1,5 +1,7 @@
 <?php namespace DigitalCanvas\Options;
 
+use RuntimeException;
+
 /**
  * States Options Class
  *
@@ -9,15 +11,15 @@ class States
 {
     /**
      * xml data file
-     * @var string
+     * @var string|null
      */
-    private static $file = null;
+    private static $file;
 
     /**
      * States data
-     * @var array
+     * @var array|null
      */
-    private static $states = null;
+    private static $states;
 
     /**
      * Sets the xml file to use to load states
@@ -25,6 +27,7 @@ class States
      * @param string $file
      *
      * @return void
+     * @throws RuntimeException
      */
     public static function setXML($file = null)
     {
@@ -32,7 +35,7 @@ class States
             $file = __DIR__ . '/states.xml';
         }
         if (!is_file($file)) {
-            throw new \RuntimeException('States XML file does not exist.');
+            throw new RuntimeException('States XML file does not exist.');
         }
         self::$file = realpath($file);
         self::$states = null;
@@ -101,7 +104,7 @@ class States
         }
         $states = self::$states;
         foreach ($states as $key => $value) {
-            if ($allowed_countries && !in_array($value['country'], $allowed_countries)) {
+            if (!empty($allowed_countries) && !in_array($value['country'], $allowed_countries)) {
                 unset($states[$key]);
             }
         }
@@ -145,7 +148,7 @@ class States
         }
         $states = array();
         foreach (self::$states as $state) {
-            if (!$allowed_countries || in_array($state['country'], $allowed_countries)) {
+            if (empty($allowed_countries) || in_array($state['country'], $allowed_countries)) {
                 if (!array_key_exists($state['countryname'], $states)) {
                     $states[$state['countryname']] = array();
                 }

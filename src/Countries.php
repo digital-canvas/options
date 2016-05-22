@@ -6,12 +6,12 @@ use RuntimeException;
 class Countries
 {
     /**
-     * @var string
+     * @var string|null
      */
     private static $file;
 
     /**
-     * @var array
+     * @var array|null
      */
     private static $countries;
 
