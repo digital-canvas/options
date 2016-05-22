@@ -102,7 +102,7 @@ class Countries
             self::loadCountries();
         }
         $countries = array();
-        foreach (self::$countries as $key => $country) {
+        foreach (self::$countries as $country) {
             $countries[$country['code']] = $country['name'];
         }
         return $countries;
