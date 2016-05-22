@@ -1,0 +1,17 @@
+{
+    "name": "digital-canvas/options-states",
+    "description": "Used to create lists of US and CA states/provinces.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Bernardi",
+            "email": "jonathan@digitalcanvas.com"
+        }
+    ],
+    "autoload": {
+         "classmap": ["src/States.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    }
+}

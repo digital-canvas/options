@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<states>
+    <!-- United States -->
+    <state>
+        <abbreviation>AL</abbreviation>
+        <name>Alabama</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+</states>

@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<states>
+    <!-- United States -->
+    <state>
+        <abbreviation>AL</abbreviation>
+        <name>Alabama</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>AK</abbreviation>
+        <name>Alaska</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>AZ</abbreviation>
+        <name>Arizona</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>AR</abbreviation>
+        <name>Arkansas</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>CA</abbreviation>
+        <name>California</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>CO</abbreviation>
+        <name>Colorado</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>CT</abbreviation>
+        <name>Connecticut</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>DE</abbreviation>
+        <name>Delaware</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>DC</abbreviation>
+        <name>District Of Columbia</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>FL</abbreviation>
+        <name>Florida</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>GA</abbreviation>
+        <name>Georgia</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>HI</abbreviation>
+        <name>Hawaii</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>ID</abbreviation>
+        <name>Idaho</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>IL</abbreviation>
+        <name>Illinois</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>IN</abbreviation>
+        <name>Indiana</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>IA</abbreviation>
+        <name>Iowa</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>KS</abbreviation>
+        <name>Kansas</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>KY</abbreviation>
+        <name>Kentucky</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>LA</abbreviation>
+        <name>Louisiana</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>ME</abbreviation>
+        <name>Maine</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MD</abbreviation>
+        <name>Maryland</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MA</abbreviation>
+        <name>Massachusetts</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MI</abbreviation>
+        <name>Michigan</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MN</abbreviation>
+        <name>Minnesota</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MS</abbreviation>
+        <name>Mississippi</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MO</abbreviation>
+        <name>Missouri</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>MT</abbreviation>
+        <name>Montana</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NE</abbreviation>
+        <name>Nebraska</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NV</abbreviation>
+        <name>Nevada</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NH</abbreviation>
+        <name>New Hampshire</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NJ</abbreviation>
+        <name>New Jersey</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NM</abbreviation>
+        <name>New Mexico</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NY</abbreviation>
+        <name>New York</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>NC</abbreviation>
+        <name>North Carolina</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>ND</abbreviation>
+        <name>North Dakota</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>OH</abbreviation>
+        <name>Ohio</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>OK</abbreviation>
+        <name>Oklahoma</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>OR</abbreviation>
+        <name>Oregon</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>PA</abbreviation>
+        <name>Pennsylvania</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>RI</abbreviation>
+        <name>Rhode Island</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>SC</abbreviation>
+        <name>South Carolina</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>SD</abbreviation>
+        <name>South Dakota</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>TN</abbreviation>
+        <name>Tennessee</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>TX</abbreviation>
+        <name>Texas</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>UT</abbreviation>
+        <name>Utah</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>VT</abbreviation>
+        <name>Vermont</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>VA</abbreviation>
+        <name>Virginia</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>WA</abbreviation>
+        <name>Washington</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>WV</abbreviation>
+        <name>West Virginia</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>WI</abbreviation>
+        <name>Wisconsin</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <state>
+        <abbreviation>WY</abbreviation>
+        <name>Wyoming</name>
+        <country>US</country>
+        <countryname>United States</countryname>
+    </state>
+    <!-- Canada -->
+    <state>
+        <abbreviation>AB</abbreviation>
+        <name>Alberta</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>BC</abbreviation>
+        <name>British Columbia</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>MB</abbreviation>
+        <name>Manitoba</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>NB</abbreviation>
+        <name>New Brunswick</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>NT</abbreviation>
+        <name>Northwest Territories</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>NS</abbreviation>
+        <name>Nova Scotia</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>NU</abbreviation>
+        <name>Nunavut</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>ON</abbreviation>
+        <name>Ontario</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>PE</abbreviation>
+        <name>Prince Edward Island</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>QC</abbreviation>
+        <name>Quebec</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>SK</abbreviation>
+        <name>Saskatchewan</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <state>
+        <abbreviation>YT</abbreviation>
+        <name>Yukon Territory</name>
+        <country>CA</country>
+        <countryname>Canada</countryname>
+    </state>
+    <!-- Mexico -->
+    <state>
+        <abbreviation>AG</abbreviation>
+        <name>Aguascalientes</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>BJ</abbreviation>
+        <name>Baja California</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>BS</abbreviation>
+        <name>Baja California Sur</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>CP</abbreviation>
+        <name>Campeche</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>CH</abbreviation>
+        <name>Chiapas</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>CI</abbreviation>
+        <name>Chihuahua</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>CU</abbreviation>
+        <name>Coahuila de Zaragoza</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>CL</abbreviation>
+        <name>Colima</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>DF</abbreviation>
+        <name>Distrito Federal</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>DG</abbreviation>
+        <name>Durango</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>GJ</abbreviation>
+        <name>Guanajuato</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>GR</abbreviation>
+        <name>Guerrero</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>HG</abbreviation>
+        <name>Hidalgo</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>JA</abbreviation>
+        <name>Jalisco</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>MX</abbreviation>
+        <name>Mexico</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>MH</abbreviation>
+        <name>Michoacan</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>MR</abbreviation>
+        <name>Morelos</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>NA</abbreviation>
+        <name>Nayarit</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>NL</abbreviation>
+        <name>Nuevo Leon</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>OA</abbreviation>
+        <name>Oaxaca</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>PU</abbreviation>
+        <name>Puebla</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>QA</abbreviation>
+        <name>Queretaro</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>QR</abbreviation>
+        <name>Quintana Roo</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>SL</abbreviation>
+        <name>San Luis Potosi</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>SI</abbreviation>
+        <name>Sinaloa</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>SO</abbreviation>
+        <name>Sonora</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>TA</abbreviation>
+        <name>Tabasco</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>TM</abbreviation>
+        <name>Tamaulipas</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>TL</abbreviation>
+        <name>Tlaxcala</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>VL</abbreviation>
+        <name>Veracruz Llave</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>YC</abbreviation>
+        <name>Yucatan</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <state>
+        <abbreviation>ZT</abbreviation>
+        <name>Zacatecas</name>
+        <country>MX</country>
+        <countryname>Mexico</countryname>
+    </state>
+    <!-- Brazil -->
+    <state>
+        <abbreviation>AC</abbreviation>
+        <name>Acre</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>AL</abbreviation>
+        <name>Alagoas</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>AP</abbreviation>
+        <name>Amapa</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>AM</abbreviation>
+        <name>Amazonas</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>BA</abbreviation>
+        <name>Bahia</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>CE</abbreviation>
+        <name>Ceara</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>DF</abbreviation>
+        <name>Distrito Federal</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>ES</abbreviation>
+        <name>Espirito Santo</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>GO</abbreviation>
+        <name>Goias</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>MA</abbreviation>
+        <name>Maranhao</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>MT</abbreviation>
+        <name>Mato Grosso</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>MS</abbreviation>
+        <name>Mato Grosso do Sul</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>MG</abbreviation>
+        <name>Minas Gerais</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>PA</abbreviation>
+        <name>Para</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>PB</abbreviation>
+        <name>Paraiba</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>PR</abbreviation>
+        <name>Parana</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>PE</abbreviation>
+        <name>Pernambuco</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>PI</abbreviation>
+        <name>Piaui</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>RN</abbreviation>
+        <name>Rio Grande do Norte</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>RS</abbreviation>
+        <name>Rio Grande do Sul</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>RJ</abbreviation>
+        <name>Rio de Janeiro</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>RO</abbreviation>
+        <name>Rondonia</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>RR</abbreviation>
+        <name>Roraima</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>SC</abbreviation>
+        <name>Santa Catarina</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>SP</abbreviation>
+        <name>Sao Paulo</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>SE</abbreviation>
+        <name>Sergipe</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <state>
+        <abbreviation>TO</abbreviation>
+        <name>Tocantins</name>
+        <country>BR</country>
+        <countryname>Brazil</countryname>
+    </state>
+    <!-- Australia -->
+    <state>
+        <abbreviation>CT</abbreviation>
+        <name>Australian Capital Territory</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>NS</abbreviation>
+        <name>New South Wales</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>NT</abbreviation>
+        <name>Northern Territory</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>QL</abbreviation>
+        <name>Queensland</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>SA</abbreviation>
+        <name>South Australia</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>TS</abbreviation>
+        <name>Tasmania</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>VI</abbreviation>
+        <name>Victoria</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+    <state>
+        <abbreviation>WA</abbreviation>
+        <name>Western Australia</name>
+        <country>AU</country>
+        <countryname>Australia</countryname>
+    </state>
+</states>
