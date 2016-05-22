@@ -1,5 +1,8 @@
 # States Options
 
+[![Latest Stable Version](https://poser.pugx.org/digital-canvas/options-states/v/stable)](https://packagist.org/packages/digital-canvas/options-states)
+[![Total Downloads](https://poser.pugx.org/digital-canvas/options-states/downloads)](https://packagist.org/packages/digital-canvas/options-states)
+[![License](https://poser.pugx.org/digital-canvas/options-states/license)](https://packagist.org/packages/digital-canvas/options-states)
 [![Build Status](https://travis-ci.org/digital-canvas/options-states.svg?branch=master)](https://travis-ci.org/digital-canvas/options-states)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
