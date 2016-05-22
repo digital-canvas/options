@@ -1,20 +1,20 @@
 # States Options
 
-[![Latest Stable Version](https://poser.pugx.org/digital-canvas/options-states/v/stable)](https://packagist.org/packages/digital-canvas/options-states)
-[![Total Downloads](https://poser.pugx.org/digital-canvas/options-states/downloads)](https://packagist.org/packages/digital-canvas/options-states)
-[![License](https://poser.pugx.org/digital-canvas/options-states/license)](https://packagist.org/packages/digital-canvas/options-states)
-[![Build Status](https://travis-ci.org/digital-canvas/options-states.svg?branch=master)](https://travis-ci.org/digital-canvas/options-states)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/build.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/digital-canvas/options/v/stable)](https://packagist.org/packages/digital-canvas/options)
+[![Total Downloads](https://poser.pugx.org/digital-canvas/options/downloads)](https://packagist.org/packages/digital-canvas/options)
+[![License](https://poser.pugx.org/digital-canvas/options/license)](https://packagist.org/packages/digital-canvas/options)
+[![Build Status](https://travis-ci.org/digital-canvas/options.svg?branch=master)](https://travis-ci.org/digital-canvas/options)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digital-canvas/options/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/digital-canvas/options/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/digital-canvas/options/badges/build.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options/build-status/master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/284169f3-f44a-4b15-9828-b9eb67c370e2/mini.png)](https://insight.sensiolabs.com/projects/284169f3-f44a-4b15-9828-b9eb67c370e2)
 
-Used to create lists of US and CA states/provinces.
+Used to create lists of countries and US and CA states/provinces.
 
 ## Installation
 
 ```
-composer require digital-canvas/options-states
+composer require digital-canvas/options
 ```
 
 ## Usage

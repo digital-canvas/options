@@ -1,6 +1,6 @@
 {
-    "name": "digital-canvas/options-states",
-    "description": "Used to create lists of US and CA states/provinces.",
+    "name": "digital-canvas/options",
+    "description": "Used to create lists of countries and states.",
     "license": "MIT",
     "authors": [
         {
