@@ -7,6 +7,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/build.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/build-status/master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/284169f3-f44a-4b15-9828-b9eb67c370e2/mini.png)](https://insight.sensiolabs.com/projects/284169f3-f44a-4b15-9828-b9eb67c370e2)
 
 Used to create lists of US and CA states/provinces.
 
