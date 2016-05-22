@@ -1,7 +1,8 @@
 # States Options
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)  
-[![Code Coverage](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)  
+[![Build Status](https://travis-ci.org/digital-canvas/options-states.svg?branch=master)](https://travis-ci.org/digital-canvas/options-states)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/digital-canvas/options-states/badges/build.png?b=master)](https://scrutinizer-ci.com/g/digital-canvas/options-states/build-status/master)
 
 Used to create lists of US and CA states/provinces.
